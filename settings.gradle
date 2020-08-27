@@ -1,0 +1,3 @@
+include ':app:detail_layout'
+include ':app'
+rootProject.name = "Exercise3"
